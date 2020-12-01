@@ -1,7 +1,12 @@
 # Example Python Flask Crud
 
  Simple example python flask crud app for sqlite.
- 
+
+
+## Run in CodeReady Workspaces
+
+[![Contribute](https://raw.githubusercontent.com/blues-man/django-realworld-example-app/master/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-a64e.a64e.example.opentlc.com/factory?url=https://github.com/blues-man/example-flask-crud.git)
+
 ## Screenshots
 
 
